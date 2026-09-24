@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data
+data/raw/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Kaggle credentials
+kaggle.json
+
+# IDE
+.vscode/
+.idea/
